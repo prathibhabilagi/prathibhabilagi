@@ -3,11 +3,12 @@
 ## I'm a Software Developer Traninee at Frontier
 - 📍 I'm based in Banglore, India.
 - 🔰 I'm currently learning NodesJS, React and Blockchain
+- 📫  Reach me: prathibhabilagi12@gmail.com 
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 <br/>
 
@@ -31,12 +32,11 @@
 <br />
 <br />
 
-details>
-  <summary>GitHub Stats</summary>
+<summary>GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=prathibhabilagi&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=prathibhabilagi&show_icons=true&hide_border=true" />
 
-</details>
+
 
 [twitter]: https://twitter.com/BilagiPrathibha?s=08
 [linkedin]: https://www.linkedin.com/in/prathibha-i-bilagi-360a74148/
