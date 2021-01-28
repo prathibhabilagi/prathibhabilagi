@@ -1,6 +1,6 @@
 ### Hi there, I'm Prathibha I Bilagi 👋
 
-## I'm a Software Developer Trainee at Frontier
+## I'm a Software Developer Traninee at Frontier
 - 📍 I'm based in Banglore, India.
 - 🔰 I'm currently learning NodesJS, React and Blockchain
 
@@ -30,6 +30,13 @@
 
 <br />
 <br />
+
+details>
+  <summary>GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=prathibhabilagi&show_icons=true&hide_border=true" />
+
+</details>
 
 [twitter]: https://twitter.com/BilagiPrathibha?s=08
 [linkedin]: https://www.linkedin.com/in/prathibha-i-bilagi-360a74148/
