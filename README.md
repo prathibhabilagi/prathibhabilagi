@@ -2,13 +2,13 @@
 
 ## I'm a Software Developer Traninee at Frontier
 - 📍 I'm based in Banglore, India.
-- 🔰 I'm currently learning NodesJS, React and Blockchain
+- 🔰  I'm currently learning NodesJS, React and Blockchain
 - 📫  Reach me: prathibhabilagi12@gmail.com 
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="codeSTACKr | Twitter" width="70px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="70px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 <br/>
 
