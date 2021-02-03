@@ -32,7 +32,7 @@
 <br />
 <br />
 
-<summary>GitHub Stats</summary>
+### GitHub Stats
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=prathibhabilagi&show_icons=true&hide_border=true" />
 
