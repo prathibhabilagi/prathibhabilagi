@@ -1,6 +1,6 @@
 ### Hi there, I'm Prathibha I Bilagi 👋
 
-## I'm a Software Developer Traninee at Frontier
+## I'm a Project Engineer 2 at Zeroswap Labs
 - 📍 I'm based in Banglore, India.
 - 🔰  I'm currently learning NodesJS, React and Blockchain
 - 📫  Reach me: prathibhabilagi12@gmail.com 
